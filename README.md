@@ -29,20 +29,6 @@
   - `hospital.db` (Main)
   - `database.db` (Legacy/Testing)
 
-
-
-### 🧾 Login Page
-![Login](https://media.giphy.com/media/placeholder-login.gif)
-
-### 🧑‍⚕️ Doctor Dashboard  
-![Doctor](https://media.giphy.com/media/placeholder-doctor.gif)  
-
-### 💊 Pharmacy Management  
-![Pharmacy](https://media.giphy.com/media/placeholder-pharmacy.gif)  
-
-### 🛏️ Bed Availability  
-![Beds](https://media.giphy.com/media/placeholder-beds.gif)  
-
 ## 📂 Project Structure
 
 ```
