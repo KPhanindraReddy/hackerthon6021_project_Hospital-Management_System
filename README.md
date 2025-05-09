@@ -32,18 +32,16 @@
 
 
 ### 🧾 Login Page
-![Login](frontend/images/login.gif)
+![Login](https://media.giphy.com/media/placeholder-login.gif)
 
-### 🧑‍⚕️ Doctor Dashboard
-![Doctor](frontend/images/doctor_dashboard.gif)
+### 🧑‍⚕️ Doctor Dashboard  
+![Doctor](https://media.giphy.com/media/placeholder-doctor.gif)  
 
-### 💊 Pharmacy Management
-![Pharmacy](frontend/images/pharmacy_management.gif)
+### 💊 Pharmacy Management  
+![Pharmacy](https://media.giphy.com/media/placeholder-pharmacy.gif)  
 
-### 🛏️ Bed Availability View
-![Beds](frontend/images/bed_availability.gif)
-
----
+### 🛏️ Bed Availability  
+![Beds](https://media.giphy.com/media/placeholder-beds.gif)  
 
 ## 📂 Project Structure
 
