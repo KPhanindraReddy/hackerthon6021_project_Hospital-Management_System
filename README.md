@@ -70,7 +70,6 @@ cd hackerthon6021_project/backend
 
 # Install backend dependencies
 npm install
-
 # Run the server
 node server.js
 ````
